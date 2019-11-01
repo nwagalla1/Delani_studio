@@ -53,3 +53,9 @@ body {
 .first {
     width: 69%;
 }
+#which {
+    background-color: #FFFFFF;
+}
+#which h2 {
+    padding-bottom: 2.5rem;
+}
