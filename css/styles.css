@@ -5,3 +5,7 @@ body {
     font-family: 'Lato', sans-serif;
     color: rgb(7, 7, 7);
 }
+.home-inner {
+    background-image: url(../images/assets/backgrounds/h_img.jpg);
+    height: 100vh;
+}
