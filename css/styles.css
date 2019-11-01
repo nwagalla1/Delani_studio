@@ -9,3 +9,12 @@ body {
     background-image: url(../images/assets/backgrounds/h_img.jpg);
     height: 100vh;
 }
+.caption {
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 40%;
+    z-index: 1;
+    color: white;
+    text-transform: uppercase;
+}
