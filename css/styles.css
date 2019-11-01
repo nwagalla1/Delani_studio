@@ -26,3 +26,8 @@ body {
     padding-bottom: 1rem;
     padding-top: 2.4rem;
 }
+.mouse {
+    position: absolute;
+    top: 94%;
+    left: 50%;    
+}
