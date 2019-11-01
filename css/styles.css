@@ -69,3 +69,11 @@ body {
 .feature .para h6 {
     font-weight: bold;
 }
+.single-work img {
+    width: 70%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#what {
+    height: 40%;
+}
