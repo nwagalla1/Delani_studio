@@ -69,11 +69,15 @@ body {
 .feature .para h6 {
     font-weight: bold;
 }
-.single-work img {
-    width: 70%;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
 #what {
     height: 40%;
+}
+.img img {
+    max-width: 100%;
+    width: 16%;
+    padding: 10px;
+}
+.img {
+    margin-bottom: 30px;
+    
 }
