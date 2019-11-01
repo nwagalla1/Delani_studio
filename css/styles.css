@@ -8,13 +8,21 @@ body {
 .home-inner {
     background-image: url(../images/assets/backgrounds/h_img.jpg);
     height: 100vh;
+    background-size: cover;
+    background-position: center center;
 }
 .caption {
     width: 100%;
     max-width: 100%;
     position: absolute;
-    top: 40%;
+    top: 30%;
     z-index: 1;
     color: white;
     text-transform: uppercase;
+}
+.caption h1 {
+    font-size: 3.7rem;
+    font-weight: 630;
+    padding-bottom: 1rem;
+    padding-top: 2.4rem;
 }
