@@ -22,12 +22,15 @@ body {
 }
 .caption h1 {
     font-size: 3.7rem;
-    font-weight: 630;
+    font-weight: 550;
     padding-bottom: 1rem;
-    padding-top: 2.4rem;
+    padding-top: 2.5rem;
 }
 .mouse {
     position: absolute;
     top: 94%;
     left: 50%;    
+}
+.caption p {
+    font-weight: 650;
 }
