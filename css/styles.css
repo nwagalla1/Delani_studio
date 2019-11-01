@@ -34,3 +34,11 @@ body {
 .caption p {
     font-weight: 650;
 }
+.about_us {
+    height: 40vh;
+}
+.services {
+    background-image: url(../images/assets/backgrounds/s_image.jpg);
+    height: 58vh;
+    color: white;
+}
