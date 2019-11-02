@@ -84,3 +84,23 @@ body {
 #portfolio {
     margin-top: -5%;
 }
+.contact {
+    background-image: url(../images/assets/backgrounds/c_image.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+#contact .contact {
+    padding: 30px;
+    color: white;
+}
+.input {
+    position: relative;
+    margin: 0 auto;
+    padding: 20px 22px;
+}
+.input input, .input textarea {
+    background-color: rgba(0,0,0,.2);
+    color: white;
+}
