@@ -154,3 +154,45 @@ footer p {
     line-height: 1px;
     margin-top: 20px;
 }
+
+/* Media Queries */
+@media (max-width: 767px){
+body h2 {
+    font-size: 100%;
+    font-weight: 550;
+}
+body h5 {
+    font-size: 1rem;
+}
+.caption {
+    width: 100%;
+    max-width: 100%;
+    top: 20%;
+}
+.mouse {
+    top: 90%;
+    left: 50%;    
+}
+.caption h1 {
+        font-size: 3rem;
+        font-weight: 500;
+        padding-bottom: 1rem;
+        padding-top: 2.2rem; 
+}
+.about_us {
+    height: 70vh;
+    display: flex;
+}
+.img img {
+    max-width: 100%;
+    width: 50%;
+    padding: 10px;
+}
+.contact {
+    height: 95vh;
+}
+.social a {
+    font-size: 2em;
+    padding: 1rem;
+}
+}
