@@ -104,3 +104,37 @@ body {
     background-color: rgba(0,0,0,.2);
     color: white;
 }
+.social a {
+    font-size: 2.5em;
+    padding: 1.6rem;
+}
+.fa-twitter {
+    color: #00acee;
+}
+.fa-dribbble {
+    color: #ea4c89;
+}
+.fa-facebook {
+    color: #3b5998;
+}
+.fa-google-plus-g {
+    color: rgb(221, 75, 57);
+}
+.fa-skype {
+    color: #00AFF0;
+}
+.fa-stumbleupon-circle {
+    color: #f74425;
+}
+.fa-behance {
+    color: #053eff;
+}
+.fa-pinterest {
+    color: #c8232c;
+}
+.fa-flickr {
+    color: #ff0084;
+}
+.fa-youtube {
+    color: #c4302b;
+}
