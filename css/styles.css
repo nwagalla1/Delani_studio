@@ -232,6 +232,12 @@ body h5 {
     height: 70vh;
     display: flex;
 }
+.feature .para {
+    display: none;
+    position: relative;
+    align-items: center;
+    
+}
 .img-box img {
     max-width: 100%;
     width: 100%;
