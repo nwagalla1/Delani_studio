@@ -75,10 +75,10 @@ body h2 {
 #what {
     height: 40%;
 }
-.img img {
+.img-box img {
     max-width: 100%;
-    width: 16%;
-    padding: 10px;
+    width: 100%;
+    padding: 2px;
 }
 .img {
     margin-bottom: 30px;
@@ -183,9 +183,9 @@ body h5 {
     height: 70vh;
     display: flex;
 }
-.img img {
+.img-box img {
     max-width: 100%;
-    width: 50%;
+    width: 100%;
     padding: 10px;
 }
 .contact {
