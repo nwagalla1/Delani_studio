@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $('.mouse').click(function(e){
         
-        var linkHref = $(this).attr('href');
+        let linkHref = $(this).attr('href');
         
         $('html, body').animate({
             scrollTop: $(linkHref).offset().top
@@ -9,5 +9,11 @@ $(document).ready(function(){
 
         e.preventDefault();
 
+    });
+
+    $('.single-box').tilt({
+        glare: true,
+        scale: 1.1,
+        hover: true,
     });
 });
