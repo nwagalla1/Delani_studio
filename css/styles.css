@@ -121,6 +121,33 @@ body h2 {
     padding: 30px;
     color: white;
 }
+.contact .popup {
+    background: rgba(0, 0, 0, 0.7);
+    width: 116%;
+    height: 139%;
+    position: relative;
+    top: -90%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+.contact .popup .popup-message {
+    height: 250px;
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+.contact .popup .popup-message h4 {
+    color: rgb(156, 22, 22);
+    font-weight: 600;
+    line-height: 30px;
+    margin-top: 30px;
+}
+.close {
+    cursor: pointer;
+}
 .input {
     position: relative;
     margin: 0 auto;
