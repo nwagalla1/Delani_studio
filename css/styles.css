@@ -65,15 +65,14 @@ body h2 {
 .feature .para {
     display: none;
     position: absolute;
-    /* z-index: 1; */
-    width: 90%;
-    top: 8%;
+    width: 85%;
+    top: -5%;
 }
 .feature .para h6 {
     font-weight: bold;
 }
 #what {
-    height: 40%;
+    height: 30%;
 }
 .img-box img {
     max-width: 100%;
@@ -108,7 +107,7 @@ body h2 {
     visibility: visible;
 }
 #portfolio {
-    margin-top: -5%;
+    margin-top: 4%;
 }
 .contact {
     background-image: url(../images/assets/backgrounds/c_image.jpg);
