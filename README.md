@@ -1,6 +1,6 @@
 # DELANI_STUDIO
 
-## A touch by Wagalla Nixon
+### A touch by Wagalla Nixon
 
 Welcome!!
 
